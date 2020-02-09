@@ -1,0 +1,75 @@
+body {
+    background-color: #EEEEEE;
+    width: 1050px;
+    margin-right: auto;
+　　margin-left : auto;
+}
+h1 {
+    text-align: center;
+    font-family: serif;
+    margin-top: 20px
+}
+.header-navigation {
+    background-color: black;
+    padding: 0 30px;
+}
+li {
+   list-style: none;
+   color: white;
+   background-color: black;
+} 
+main {
+    width: 700px;
+    height: 700px;
+    float: left;
+    margin-left: 20px;
+}
+.content-main {
+    float: right;
+    width: 500px;
+}
+.date {
+    font-size: 20px;
+}
+.blog-title {
+    color: #0066CC;
+    font-size: 25px;
+    margin: 10px 0;
+}
+.content {
+    margin-bottom: 20px
+}
+side {
+    width: 300px;
+    height: 700px;
+    float: left;
+    margin-left: 10px;
+}
+.side-contents{
+    float: left;
+    width: 250px;
+    margin-bottom: 15px;
+}
+.article {
+    width: 250px;
+    font-size: 30px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 25px;
+    margin-bottom: 20px;
+}
+.image {
+    float: left;
+}
+.side-title {
+    color: #0066CC;
+}
+.company {
+    text-align: center;
+    border-top: 1px solid gray;
+    margin-bottom: 50px;
+}
+
+
+
+
+
